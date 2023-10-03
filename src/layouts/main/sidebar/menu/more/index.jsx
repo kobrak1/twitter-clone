@@ -19,7 +19,12 @@ const More = () => {
             </div>   
         </Popover.Button>
         <Popover.Panel>
-            content
+            <ul className="w-[318px] flex-col justify-center items-center">
+                <li className="h-[52px] bg-gray-200 flex justify-center items-center">connect</li>
+                <li className="h-[52px] bg-gray-200 flex justify-center items-center">connect</li>
+                <li className="h-[52px] bg-gray-200 flex justify-center items-center">connect</li>
+                <li className="h-[52px] bg-gray-200 flex justify-center items-center">connect</li>
+            </ul>
         </Popover.Panel>
     </Popover>
   )
