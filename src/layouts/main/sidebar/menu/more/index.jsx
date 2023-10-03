@@ -23,7 +23,7 @@ const More = () => {
                 <li className="h-[52px] bg-gray-200 flex justify-center items-center transition duration-200 hover:bg-green-300">connect</li><hr />
                 <li className="h-[52px] bg-gray-200 flex justify-center items-center transition duration-200 hover:bg-green-300">connect</li><hr />
                 <li className="h-[52px] bg-gray-200 flex justify-center items-center transition duration-200 hover:bg-green-300">connect</li><hr />
-                <li className="h-[52px] bg-gray-200 flex justify-center items-center transition duration-200 hover:bg-green-300  ">connect</li>
+                <li className="h-[52px] bg-gray-200 flex  hover:bg-green-300  ">connect</li>
             </ul>
         </Popover.Panel>
     </Popover>
